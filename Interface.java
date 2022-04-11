@@ -32,7 +32,7 @@ interface student{
    mname=sc.nextLine();
    }
  public void displaydata()
-  //The body of dusplaydata()
+  //The body of displaydata()
 {
    System.out.println("Roll no: " +rollno);
    System.out.println("Student name: " +name);
