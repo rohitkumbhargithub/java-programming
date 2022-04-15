@@ -1,6 +1,6 @@
 //using array for matrix from with arthimatic operation.
 import java.util.*;
-public class Main{ 
+class matrix{ 
 public static void main(String args[]){
    Scanner sc=new Scanner (System.in);
    int a, b, c, d, ch;
