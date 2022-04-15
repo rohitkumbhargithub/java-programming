@@ -125,7 +125,7 @@ switch(ch){
  }
    else
    {
-       System.out.println("The matrix row and column not same..?");
+       System.out.println("The matrix row and coloumn not same..?");
    }
 }
 }
