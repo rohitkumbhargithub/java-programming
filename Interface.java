@@ -1,3 +1,4 @@
+//using interface for college
 import java.util.*;
 interface student{
  void getdata();//interface method (does not have a body)
@@ -82,7 +83,7 @@ interface student{
      }
      }
   }
-     public class Main{
+     class college{
       public static void main(String args[]){
         course cr= new course(); ////Creating an object for course.
         System.out.println("\n**Student information**\n");
