@@ -1,3 +1,4 @@
+//using array for matrix from with arthimatic operation.
 import java.util.*;
 public class Main{ 
 public static void main(String args[]){
